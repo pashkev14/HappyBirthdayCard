@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Happy Birthday Card</string>
+    <string name="happy_birthday_text" translatable="false">С днём рождения, Артём!</string>
+    <string name="signature_text" translatable="false">От Паши</string>
+</resources>
